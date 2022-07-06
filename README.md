@@ -1,1 +1,2 @@
 # odin-recipes
+This is the very first project in the TOP curriculum. I will only be using HTML in this one since it's the only thing that has been taught as of yet. The actual project is a website with a main index page that has links to other pages in the site.
