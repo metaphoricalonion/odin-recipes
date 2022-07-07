@@ -1,2 +1,9 @@
 # odin-recipes
-This is the very first project in the TOP curriculum. I will only be using HTML in this one since it's the only thing that has been taught as of yet. The actual project is a website with a main index page that has links to other pages in the site.
+This is one of the very first project in the TOP curriculum. The finished product would be a recipe website that has a main page who has links of other pages in the site that has recipes in them. 
+
+**Skills I have demonstrated in this project:**
+- Add images to a page
+- Link files and pages to each other
+- Set up an .html file and the boilerplate code needed
+- Add unordered and ordered lists to a page
+- Make meaningful and to-the-point commit messages
