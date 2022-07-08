@@ -1,0 +1,11 @@
+.top {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: Verdana, "Times New Roman", sans-serif;
+    font-weight: bold;
+}
+
+.link {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
